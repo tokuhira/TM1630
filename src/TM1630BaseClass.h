@@ -1,6 +1,6 @@
 #pragma once
 
-#include <arduino.h>
+#include <Arduino.h>
 
 #define TM1630_DISPLAY_MODE 0x00
 #define TM1630_MODE_8X4 0x0
